@@ -699,6 +699,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
+    color: #FFF8DC;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
@@ -706,12 +707,15 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header .page-heading h1 {
     font-size: 5rem;
+    color: #FFF8DC;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
+    color: #FFF8DC;
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
+    color: #FFF8DC;
   }
 }
 
