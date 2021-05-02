@@ -381,11 +381,11 @@ footer {
 }
 
 footer p.text-muted {
-  color: color: #FFF8DC;
+  color: color: #FFF8DC !important;
 }
 
 footer a {
-  color: {{ site.footer-link-col | default: "#404040" }};
+  color: color: #FFF8DC;
 }
 
 footer .list-inline {
