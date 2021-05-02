@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
-  color: {{ site.text-col | default: "#404040" }};
+  color: #FFF8DC ; /* {{ site.text-col | default: "#FFF8DC" }}; */
   position: relative;
   background-color: {{ site.page-col | default: "#008080" }};
   {% if site.page-img %}
@@ -46,11 +46,11 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  color: #FFF8DC;/*{{ site.link-col | default: "#008AFF" }};*/
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: #FFF8DC; /*{{ site.hover-col | default: "#0085A1" }};*/
 }
 blockquote {
   color: #808080;
