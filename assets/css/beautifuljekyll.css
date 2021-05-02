@@ -190,7 +190,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: {{ site.navbar-text-col | default: "#404040" }};
+  color: #FFF8DC;
 }
 
 .navbar-toggler {
@@ -381,7 +381,7 @@ footer {
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col | default: "#777777" }} !important;
+  color: color: #FFF8DC;
 }
 
 footer a {
