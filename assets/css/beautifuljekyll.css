@@ -381,11 +381,11 @@ footer {
 }
 
 footer p.text-muted {
-  color: color: #FFF8DC !important;
+  color: #FFF8DC;
 }
 
 footer a {
-  color: color: #FFF8DC;
+  color: #FFF8DC;
 }
 
 footer .list-inline {
