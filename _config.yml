@@ -40,12 +40,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 #  email: "someone@example.com"
-  facebook: aliqassem0x00
-  github: aliqassem0x00
-  twitter: aliqassem0x00
+#  facebook: aliqassem0x00
+#  github: aliqassem0x00
+#  twitter: aliqassem0x00
 #  patreon: DeanAttali
-  youtube: c/aliqassem0x00
-  medium: aliqassem0x00
+#  youtube: c/aliqassem0x00
+#  medium: aliqassem0x00
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -57,7 +57,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  telegram: aliqassem0x00
+#  telegram: aliqassem0x00
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
